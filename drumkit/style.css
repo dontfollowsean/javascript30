@@ -66,4 +66,25 @@ html {
      padding-right: 15px;
      font-size: 15px;
  }
+
+ @media (max-width: 992px) {
+   .keys {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+   }
+   .key {
+     height: 90%;
+     width: 90%;
+   }
+   kbd{
+    display: none;
+   }
+   .sound {
+     font-size: 5rem;
+     vertical-align: middle;
+     line-height: 450px
+   }
+ }
  
