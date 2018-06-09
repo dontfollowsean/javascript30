@@ -12,7 +12,7 @@ html {
   .keys {
     display: flex;
     flex: 1;
-    min-height: 100vh;
+    min-height: calc(100vh - 65px);
     align-items: center;
     justify-content: center;
   }
@@ -49,3 +49,21 @@ html {
     color: #ffc600;
   }
   
+  .footer{
+    text-align: right;
+    color: white; 
+    padding: 10px;
+    min-height: 65px
+ }
+ 
+ .footer .container{
+     border: 2px solid white;
+     border-radius: .5rem;
+     display: inline-block;
+     background: rgba(0,0,0,0.7);
+     text-shadow: 0 0 .5rem black;
+     padding-left: 15px;
+     padding-right: 15px;
+     font-size: 15px;
+ }
+ 
