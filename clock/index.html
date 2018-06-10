@@ -15,6 +15,12 @@
       </div>
     </div>
 
+    <footer class="footer">
+        <div class="container">
+           <p><a href="https://www.seanewilkinson.com/javascript30">#JavaScript30</a> |
+         Copyright &copy; <a href="https://www.seanewilkinson.com">Sean Wilkinson</a> 2018</p>
+           </div>
+   </footer>
 
   <style>
     html {
@@ -28,7 +34,7 @@
     body {
       margin: 0;
       font-size: 2rem;
-      display:flex;
+      display: inline-block;
       flex:1;
       min-height: 100vh;
       align-items: center;
@@ -39,7 +45,7 @@
       height: 30rem;
       border:20px solid white;
       border-radius:50%;
-      margin:50px auto;
+      margin:150px auto;
       position: relative;
       padding:2rem;
       box-shadow:
@@ -70,6 +76,23 @@
       transition-timing-function: cubic-bezier(0.15, 2.9, 0.5, 1);
     }
 
+    .footer{
+        text-align: right;
+        color: white; 
+        padding: 10px;
+        min-height: 65px
+    }
+    
+    .footer .container{
+        border: 2px solid white;
+        border-radius: .5rem;
+        display: inline-block;
+        background: rgba(0,0,0,0.7);
+        text-shadow: 0 0 .5rem black;
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: 15px;
+    }
   </style>
 
   <script>
