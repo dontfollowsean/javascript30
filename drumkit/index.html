@@ -83,7 +83,6 @@
       }
       function removeTransition(e) {
           if(e.propertyName !== 'transform') return; // only act on transform
-          console.log(e.propertyName);
           this.classList.remove('playing');
       }
       const keys = document.querySelectorAll('.key');
