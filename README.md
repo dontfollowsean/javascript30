@@ -2,4 +2,6 @@
 
 ## Build 30 Things in 30 Days Using JavaScript
 
-### [Day 1 - Keyboard Drum Kit](https://www.seanewilkinson.com/javascript30/drumkit/index.html)
+### [Day 1 - Keyboard Drum Kit](https://www.seanewilkinson.com/javascript30/drumkit)
+
+### [Day 2 - Analog Clock](https://www.seanewilkinson.com/javascript30/clock)
