@@ -10,4 +10,6 @@
 
 ### [Day 4 - Array Workout](https://www.seanewilkinson.com/javascript30/array-workout)
 
-### [Day 4 - Flex Panels](https://www.seanewilkinson.com/javascript30/flex-panels)
+### [Day 5 - Flex Panels](https://www.seanewilkinson.com/javascript30/flex-panels)
+
+### [Day 6 - Type Ahead](https://www.seanewilkinson.com/javascript30/type-ahead)
