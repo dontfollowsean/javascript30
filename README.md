@@ -9,3 +9,5 @@
 ### [Day 3 - CSS Variables](https://www.seanewilkinson.com/javascript30/css-variables)
 
 ### [Day 4 - Array Workout](https://www.seanewilkinson.com/javascript30/array-workout)
+
+### [Day 4 - Flex Panels](https://www.seanewilkinson.com/javascript30/flex-panels)
