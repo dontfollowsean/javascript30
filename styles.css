@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - 3 Col Portfolio (https://startbootstrap.com/template-overviews/3-col-portfolio)
- * Copyright 2013-2018 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/master/LICENSE)
- */
 
 body {
   padding-top: 54px;
@@ -12,6 +7,22 @@ body {
   body {
     padding-top: 56px;
   }
+}
+
+.bg-purp {
+  color: #fff;
+  background-color: #4b16ad;
+}
+
+.bg-purp a {
+  color: #fff;
+}
+
+a {
+  color: #4b16ad; 
+}
+a:hover, a:focus, a:active {
+  color: #2e0d69; 
 }
 
 .portfolio-item {
