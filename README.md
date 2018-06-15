@@ -15,3 +15,5 @@
 #### [Day 6 - Type Ahead](https://www.seanewilkinson.com/javascript30/type-ahead)
 
 #### [Day 7 - Array Workout Part 2](https://www.seanewilkinson.com/javascript30/array-workout-pt2)
+
+#### [Day 8 - HTML 5 Canvas](https://www.seanewilkinson.com/javascript30/html5-canvas)
